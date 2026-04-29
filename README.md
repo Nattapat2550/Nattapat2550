@@ -1,115 +1,75 @@
-<!-- Profile README for @Nattapat2550 -->
-<!-- Tip: replace {your-linkedin-slug} with your real LinkedIn slug (usually first-last) -->
+<div align="center">
 
-<h1 align="center">Hi, I'm Natthapat “Guitar” Yansungvon 👋</h1>
+# Hi there, I'm Natthapat “Guitar” Yansungvon 👋
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Full-Stack+Developer;DevSecOps+%26+Testing+Enthusiast" alt="Typing SVG" /></a>
+
 <p align="center">
-  👾 <b>Basic Developer</b> who loves learning new things in the dev world<br/>
-  🌍 Based in <b>Bangkok, Thailand</b><br/>
-  ✉️ Reach me at <a href="mailto:nyansungvon@gmail.com">nyansungvon@gmail.com</a>
+  Curious builder based in <b>Bangkok, Thailand</b> 🌍 <br/>
+  Passionate about clean UI, robust systems, and shipping small useful things often.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nattapat2550?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Nattapat2550?style=flat&logo=github" /></a>
-  <a href="https://github.com/Nattapat2550"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Nattapat2550&style=flat" /></a>
-  <a href="https://github.com/Nattapat2550"><img alt="Stars" src="https://img.shields.io/github/stars/Nattapat2550?affiliations=OWNER%2CCOLLABORATOR&style=flat" /></a>
+  <a href="https://github.com/Nattapat2550?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Nattapat2550?style=for-the-badge&logo=github&color=2ea44f" /></a>
+  <a href="https://github.com/Nattapat2550"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Nattapat2550&style=for-the-badge&color=blue" /></a>
+  <a href="mailto:nyansungvon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nyansungvon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+</div>
 
 ---
 
-## ⚡ About
-- Curious builder learning across systems, web, and a bit of embedded (Arduino/Raspberry Pi).
-- Enjoys clean UI, simple UX, and shipping small useful things often.
+## ⚡ About Me
+
+- 🎓 Currently studying Computer Engineering and Digital Technology.
+- 💻 Specializing in **Full-Stack Development** (Go, Node.js, React/Vite, TypeScript).
+- 🔒 Exploring the world of **DevSecOps**, automated testing (Playwright), and containerization (Docker, Kubernetes).
+- 🛠️ Building scalable platforms like e-commerce systems, reservation apps, and interactive web tools.
+- 🌱 Always learning and refining core CS algorithms, numerical computing, and system architectures.
 
 ---
 
 ## 🧰 Tech Stack
 
-<!-- Icons from danielcranney/readme-generator (kept for consistency) -->
-<p align="left">
-  <!-- Languages -->
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36"/></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36"/></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36"/></a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" alt="Ruby" title="Ruby" width="36" height="36"/></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36"/></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36"/></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36"/></a>
+<div align="center">
 
-  <!-- Tools & Platforms -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36"/></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="Node.js" title="Node.js" width="36" height="36"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36"/></a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36"/></a>
-  <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36"/></a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36"/></a>
-</p>
+### Languages & Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,ts,js,react,python,cpp,cs" />
+</a>
 
----
+### Tools, DevOps & Infrastructure
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,mysql,html,css,figma,arduino,raspberrypi" />
+</a>
 
-## 🌐 Socials
-<p align="left">
-  <a href="https://github.com/Nattapat2550" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub"/>
-    </picture>
-  </a>
-
-  <!-- Replace {your-linkedin-slug} with your real profile slug (no spaces) -->
-  <a href="https://www.linkedin.com/in/{your-linkedin-slug}" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"/>
-    </picture>
-  </a>
-
-  <!-- Optional: add your public FB username (no spaces) -->
-  <a href="https://www.facebook.com/{your-facebook-username}" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook"/>
-    </picture>
-  </a>
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <a href="https://github.com/Nattapat2550">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nattapat2550&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Guitar's GitHub stats"/>
-  </a>
-  <a href="https://github.com/Nattapat2550">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nattapat2550&layout=compact&langs_count=10&hide_border=true" alt="Top Languages"/>
-  </a>
-</p>
 
-<!-- Optional streaks (comment out if you don't want it) -->
-<!--
-<p>
-  <a href="https://git.io/streak-stats">
-    <img height="165" src="https://streak-stats.demolab.com?user=Nattapat2550&hide_border=true" alt="GitHub Streak"/>
+<div align="center">
+  <a href="https://github.com/Nattapat2550">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nattapat2550&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
   </a>
-</p>
--->
+  <a href="https://github.com/Nattapat2550">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nattapat2550&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+  </a>
+</div>
 
 ---
 
-## 🔭 Current Focus
-- Sharpening core CS + algorithms with C/C++/C#.
-- Building small full-stack projects with Node.js + Vanilla JS.
-- Deploying fast on Render.
+## 🌐 Connect with me
 
----
-
-## 💌 Contact
-- Email: <a href="mailto:nyansungvon@gmail.com">nyansungvon@gmail.com</a>
-- Open to collabs or small gigs — ping me!
+<div align="center">
+  <a href="https://www.linkedin.com/in/nattapat-yansungvon-16604a378"target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/share/1AxWoC6pwT/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/Nattapat2550" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
